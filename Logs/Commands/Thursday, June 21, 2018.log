@@ -1,0 +1,95 @@
+##############################
+Log started on 6/21/2018 2:20:50 AM
+
+##############################
+Log started on 6/21/2018 9:17:30 PM
+
+6/21/2018 9:19:25 PM: 127.0.0.1: Owner 0x949 "bigcheezit" ('bigcheez') used command 'go britain'
+6/21/2018 9:19:28 PM: 127.0.0.1: Owner 0x949 "bigcheezit" ('bigcheez') used command 'save '
+6/21/2018 9:19:30 PM: 127.0.0.1: Owner 0x949 "bigcheezit" ('bigcheez') used command 'm tele'
+6/21/2018 9:19:54 PM: 127.0.0.1: Owner 0x949 "bigcheezit" ('bigcheez') used command 'props '
+##############################
+Log started on 6/21/2018 11:02:49 PM
+
+6/21/2018 11:03:15 PM: 127.0.0.1: Owner 0x949 "bigcheezit" ('bigcheez') used command 'set map felucca'
+6/21/2018 11:03:16 PM: 127.0.0.1: Owner 0x949 "bigcheezit" ('bigcheez') set property 'map' of 0x949 "bigcheezit" ('bigcheez') to 'Felucca'
+6/21/2018 11:03:19 PM: 127.0.0.1: Owner 0x949 "bigcheezit" ('bigcheez') used command 'set map trammel'
+6/21/2018 11:03:20 PM: 127.0.0.1: Owner 0x949 "bigcheezit" ('bigcheez') set property 'map' of 0x949 "bigcheezit" ('bigcheez') to 'Trammel'
+6/21/2018 11:05:33 PM: 127.0.0.1: Owner 0x949 "bigcheezit" ('bigcheez') used command 'save '
+6/21/2018 11:05:34 PM: 127.0.0.1: Owner 0x949 "bigcheezit" ('bigcheez') used command 'restart '
+##############################
+Log started on 6/21/2018 11:06:10 PM
+
+6/21/2018 11:11:30 PM: 127.0.0.1: Owner 0x949 "bigcheezit" ('bigcheez') used command 'props '
+6/21/2018 11:13:34 PM: 127.0.0.1: Owner 0x949 "bigcheezit" ('bigcheez') used command 'add fireworkswand'
+6/21/2018 11:13:35 PM: 127.0.0.1: Owner 0x949 "bigcheezit" ('bigcheez') building at (1439, 1689, 0) in Trammel: "fireworkswand"
+6/21/2018 11:13:35 PM: 127.0.0.1: Serials: 0x400000E8; 
+6/21/2018 11:40:03 PM: 127.0.0.1: Owner 0x949 "bigcheezit" ('bigcheez') used command 'props '
+6/21/2018 11:40:40 PM: 127.0.0.1: Owner 0x949 "bigcheezit" ('bigcheez') used command 'add metaldoor'
+6/21/2018 11:40:40 PM: 127.0.0.1: Owner 0x949 "bigcheezit" ('bigcheez') building at (1438, 1695, 0) in Trammel: "metaldoor"
+6/21/2018 11:40:45 PM: 127.0.0.1: Owner 0x949 "bigcheezit" ('bigcheez') used command 'add metaldoor'
+6/21/2018 11:40:48 PM: 127.0.0.1: Owner 0x949 "bigcheezit" ('bigcheez') used command 'add metaldoor'
+6/21/2018 11:40:48 PM: 127.0.0.1: Owner 0x949 "bigcheezit" ('bigcheez') building at (1439, 1695, 0) in Trammel: "metaldoor"
+6/21/2018 11:40:54 PM: 127.0.0.1: Owner 0x949 "bigcheezit" ('bigcheez') used command 'add metaldoor doorfacing nw'
+6/21/2018 11:40:55 PM: 127.0.0.1: Owner 0x949 "bigcheezit" ('bigcheez') building at (1437, 1697, 0) in Trammel: "metaldoor" "doorfacing" "nw"
+6/21/2018 11:41:34 PM: 127.0.0.1: Owner 0x949 "bigcheezit" ('bigcheez') used command 'add metaldoor doorfacing nw'
+6/21/2018 11:41:35 PM: 127.0.0.1: Owner 0x949 "bigcheezit" ('bigcheez') building at (1437, 1697, 0) in Trammel: "metaldoor" "doorfacing" "nw"
+6/21/2018 11:41:40 PM: 127.0.0.1: Owner 0x949 "bigcheezit" ('bigcheez') used command 'add metaldoor nw nw'
+6/21/2018 11:41:40 PM: 127.0.0.1: Owner 0x949 "bigcheezit" ('bigcheez') building at (1437, 1697, 0) in Trammel: "metaldoor" "nw" "nw"
+6/21/2018 11:41:47 PM: 127.0.0.1: Owner 0x949 "bigcheezit" ('bigcheez') used command 'add metaldoor north north'
+6/21/2018 11:41:48 PM: 127.0.0.1: Owner 0x949 "bigcheezit" ('bigcheez') building at (1441, 1695, 0) in Trammel: "metaldoor" "north" "north"
+6/21/2018 11:41:53 PM: 127.0.0.1: Owner 0x949 "bigcheezit" ('bigcheez') used command 'add metaldoor doorfacing north'
+6/21/2018 11:41:54 PM: 127.0.0.1: Owner 0x949 "bigcheezit" ('bigcheez') building at (1438, 1695, 0) in Trammel: "metaldoor" "doorfacing" "north"
+6/21/2018 11:42:24 PM: 127.0.0.1: Owner 0x949 "bigcheezit" ('bigcheez') used command 'add metaldoor doorfacing north'
+6/21/2018 11:42:25 PM: 127.0.0.1: Owner 0x949 "bigcheezit" ('bigcheez') building at (1439, 1697, 0) in Trammel: "metaldoor" "doorfacing" "north"
+6/21/2018 11:43:01 PM: 127.0.0.1: Owner 0x949 "bigcheezit" ('bigcheez') used command 'add metaldoor northcw'
+6/21/2018 11:43:02 PM: 127.0.0.1: Owner 0x949 "bigcheezit" ('bigcheez') building at (1438, 1695, 0) in Trammel: "metaldoor" "northcw"
+6/21/2018 11:43:02 PM: 127.0.0.1: Serials: 0x400060AB; 
+6/21/2018 11:43:04 PM: 127.0.0.1: Owner 0x949 "bigcheezit" ('bigcheez') used command 'remove '
+6/21/2018 11:43:06 PM: 127.0.0.1: Owner 0x949 "bigcheezit" ('bigcheez') deleting 0x400060AB (MetalDoor)
+6/21/2018 11:44:28 PM: 127.0.0.1: Owner 0x949 "bigcheezit" ('bigcheez') used command 'save '
+6/21/2018 11:44:29 PM: 127.0.0.1: Owner 0x949 "bigcheezit" ('bigcheez') used command 'restart '
+##############################
+Log started on 6/21/2018 11:45:06 PM
+
+6/21/2018 11:45:35 PM: 127.0.0.1: Owner 0x949 "bigcheezit" ('bigcheez') used command 'add MetalDoorTrap northcw'
+6/21/2018 11:45:35 PM: 127.0.0.1: Owner 0x949 "bigcheezit" ('bigcheez') building at (1438, 1695, 0) in Trammel: "MetalDoorTrap" "northcw"
+6/21/2018 11:45:35 PM: 127.0.0.1: Serials: 0x400000E7; 
+6/21/2018 11:45:47 PM: 127.0.0.1: Owner 0x949 "bigcheezit" ('bigcheez') used command 'remove '
+6/21/2018 11:45:48 PM: 127.0.0.1: Owner 0x949 "bigcheezit" ('bigcheez') deleting 0x400000E7 (MetalDoorTrap)
+6/21/2018 11:46:07 PM: 127.0.0.1: Owner 0x949 "bigcheezit" ('bigcheez') used command 'restart '
+##############################
+Log started on 6/21/2018 11:46:28 PM
+
+6/21/2018 11:46:37 PM: 127.0.0.1: Owner 0x949 "bigcheezit" ('bigcheez') used command 'add MetalDoorTrap westcw'
+6/21/2018 11:46:37 PM: 127.0.0.1: Owner 0x949 "bigcheezit" ('bigcheez') building at (1438, 1694, 0) in Trammel: "MetalDoorTrap" "westcw"
+6/21/2018 11:46:37 PM: 127.0.0.1: Serials: 0x400000E7; 
+6/21/2018 11:46:49 PM: 127.0.0.1: Owner 0x949 "bigcheezit" ('bigcheez') used command 'add MetalDoorTrap eastcw'
+6/21/2018 11:46:50 PM: 127.0.0.1: Owner 0x949 "bigcheezit" ('bigcheez') building at (1439, 1694, 0) in Trammel: "MetalDoorTrap" "eastcw"
+6/21/2018 11:46:50 PM: 127.0.0.1: Serials: 0x400009A5; 
+6/21/2018 11:46:52 PM: 127.0.0.1: Owner 0x949 "bigcheezit" ('bigcheez') used command 'remove '
+6/21/2018 11:46:53 PM: 127.0.0.1: Owner 0x949 "bigcheezit" ('bigcheez') deleting 0x40007ED2 (MetalDoor)
+6/21/2018 11:46:53 PM: 127.0.0.1: Owner 0x949 "bigcheezit" ('bigcheez') used command 'remove '
+6/21/2018 11:46:53 PM: 127.0.0.1: Owner 0x949 "bigcheezit" ('bigcheez') deleting 0x40007EC6 (MetalDoor)
+6/21/2018 11:46:55 PM: 127.0.0.1: Owner 0x949 "bigcheezit" ('bigcheez') used command 'move '
+6/21/2018 11:46:57 PM: 127.0.0.1: Owner 0x949 "bigcheezit" ('bigcheez') moving 0x400009A5 (MetalDoorTrap) to (1439, 1692, 0)
+6/21/2018 11:46:57 PM: 127.0.0.1: Owner 0x949 "bigcheezit" ('bigcheez') used command 'move '
+6/21/2018 11:46:58 PM: 127.0.0.1: Owner 0x949 "bigcheezit" ('bigcheez') moving 0x400000E7 (MetalDoorTrap) to (1438, 1692, 0)
+6/21/2018 11:47:11 PM: 127.0.0.1: Owner 0x949 "bigcheezit" ('bigcheez') used command 'add MetalDoorTrap westccw'
+6/21/2018 11:47:12 PM: 127.0.0.1: Owner 0x949 "bigcheezit" ('bigcheez') building at (1439, 1694, 0) in Trammel: "MetalDoorTrap" "westccw"
+6/21/2018 11:47:12 PM: 127.0.0.1: Serials: 0x400009B5; 
+6/21/2018 11:47:20 PM: 127.0.0.1: Owner 0x949 "bigcheezit" ('bigcheez') used command 'remove '
+6/21/2018 11:47:21 PM: 127.0.0.1: Owner 0x949 "bigcheezit" ('bigcheez') deleting 0x400000E7 (MetalDoorTrap)
+6/21/2018 11:47:23 PM: 127.0.0.1: Owner 0x949 "bigcheezit" ('bigcheez') used command 'move '
+6/21/2018 11:47:24 PM: 127.0.0.1: Owner 0x949 "bigcheezit" ('bigcheez') moving 0x400009B5 (MetalDoorTrap) to (1438, 1692, 0)
+6/21/2018 11:47:32 PM: 127.0.0.1: Owner 0x949 "bigcheezit" ('bigcheez') used command 'adddoor '
+6/21/2018 11:47:34 PM: 127.0.0.1: Owner 0x949 "bigcheezit" ('bigcheez') used command 'link '
+6/21/2018 11:52:28 PM: 127.0.0.1: Owner 0x949 "bigcheezit" ('bigcheez') used command 'restart '
+##############################
+Log started on 6/21/2018 11:52:51 PM
+
+6/21/2018 11:57:16 PM: 127.0.0.1: Owner 0x949 "bigcheezit" ('bigcheez') used command 'restart '
+##############################
+Log started on 6/21/2018 11:59:48 PM
+
+6/22/2018 12:00:48 AM: 127.0.0.1: Owner 0x949 "bigcheezit" ('bigcheez') used command 'restart '

@@ -1,0 +1,939 @@
+##############################
+Log started on 8/4/2018 10:52:03 PM
+
+8/4/2018 10:52:50 PM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add halberd'
+8/4/2018 10:52:51 PM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (1905, 2098, 2) in Felucca: "halberd"
+8/4/2018 10:52:51 PM: 127.0.0.1: Serials: 0x40006397; 
+8/4/2018 10:52:56 PM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'set name "a bloody halberd"'
+8/4/2018 10:52:59 PM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') set property 'name' of 0x40006397 (Halberd) to 'a bloody halberd'
+8/4/2018 10:53:03 PM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'set hue 33'
+8/4/2018 10:53:04 PM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') set property 'hue' of 0x40006397 (Halberd) to '33'
+8/4/2018 10:53:14 PM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add blood'
+8/4/2018 10:53:15 PM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (1887, 2099, 0) in Felucca: "blood"
+8/4/2018 10:53:15 PM: 127.0.0.1: Serials: 0x40006398; 
+8/4/2018 10:53:23 PM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add blood'
+8/4/2018 10:53:24 PM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (1886, 2098, 0) in Felucca: "blood"
+8/4/2018 10:53:24 PM: 127.0.0.1: Serials: 0x40006399; 
+8/4/2018 10:53:32 PM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add corpse'
+8/4/2018 10:53:34 PM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (1888, 2100, 0) in Felucca: "corpse"
+8/4/2018 10:53:35 PM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add noble'
+8/4/2018 10:53:37 PM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (1886, 2099, 0) in Felucca: "noble"
+8/4/2018 10:53:37 PM: 127.0.0.1: Serials: 0x9C7; 
+8/4/2018 10:53:37 PM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'kill '
+8/4/2018 10:53:38 PM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') killing 0x9C7 "Warner" (no account)
+8/4/2018 10:53:56 PM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add blood'
+8/4/2018 10:53:57 PM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (1886, 2099, 0) in Felucca: "blood"
+8/4/2018 10:53:57 PM: 127.0.0.1: Serials: 0x400063B4; 
+8/4/2018 11:15:32 PM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add cake'
+8/4/2018 11:15:33 PM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (1885, 2092, 0) in Felucca: "cake"
+8/4/2018 11:15:33 PM: 127.0.0.1: Serials: 0x400063C1; 
+8/4/2018 11:15:36 PM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'set hue 11'
+8/4/2018 11:15:36 PM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') set property 'hue' of 0x400063C1 (Cake) to '11'
+8/4/2018 11:15:39 PM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'set hue 22'
+8/4/2018 11:15:39 PM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') set property 'hue' of 0x400063C1 (Cake) to '22'
+8/4/2018 11:15:41 PM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'set hue 44'
+8/4/2018 11:15:41 PM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') set property 'hue' of 0x400063C1 (Cake) to '44'
+8/4/2018 11:15:43 PM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'set hue 55'
+8/4/2018 11:15:43 PM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') set property 'hue' of 0x400063C1 (Cake) to '55'
+8/4/2018 11:15:47 PM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'set hue 66'
+8/4/2018 11:15:47 PM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') set property 'hue' of 0x400063C1 (Cake) to '66'
+8/4/2018 11:15:57 PM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'set name "a magical cake"'
+8/4/2018 11:15:58 PM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') set property 'name' of 0x400063C1 (Cake) to 'a magical cake'
+8/4/2018 11:16:04 PM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'set name "a special cake"'
+8/4/2018 11:16:05 PM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') set property 'name' of 0x400063C1 (Cake) to 'a special cake'
+8/4/2018 11:16:19 PM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'tele '
+8/4/2018 11:17:31 PM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'remove '
+8/4/2018 11:17:34 PM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') deleting 0x40000107 (Backpack)
+8/4/2018 11:17:38 PM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'set movable false'
+8/4/2018 11:17:39 PM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') set property 'movable' of 0x40011D1D (Backpack) to 'False'
+8/4/2018 11:17:46 PM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'set amount 5'
+8/4/2018 11:17:47 PM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') set property 'amount' of 0x400063C1 (Cake) to '5'
+8/4/2018 11:17:52 PM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'set amount 7'
+8/4/2018 11:17:54 PM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') set property 'amount' of 0x400063C1 (Cake) to '7'
+8/4/2018 11:18:00 PM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'set str 105'
+8/4/2018 11:18:01 PM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') set property 'str' of 0x949 "iroxj00.com" ('bigcheez') to '105'
+8/4/2018 11:18:07 PM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'set rawstr 110'
+8/4/2018 11:18:08 PM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') set property 'rawstr' of 0x949 "iroxj00.com" ('bigcheez') to '110'
+8/4/2018 11:18:17 PM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add spellbook'
+8/4/2018 11:18:18 PM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (1904, 2085, 28) in Felucca: "spellbook"
+8/4/2018 11:18:18 PM: 127.0.0.1: Serials: 0x400063C4; 
+8/4/2018 11:18:21 PM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'allspells '
+8/4/2018 11:18:22 PM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') filling spellbook 0x400063C4 (Spellbook)
+8/4/2018 11:18:24 PM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add pouch'
+8/4/2018 11:18:25 PM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (1904, 2086, 28) in Felucca: "pouch"
+8/4/2018 11:18:25 PM: 127.0.0.1: Serials: 0x400063C5; 
+8/4/2018 11:18:28 PM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add pouch'
+8/4/2018 11:18:28 PM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (1905, 2085, 28) in Felucca: "pouch"
+8/4/2018 11:18:28 PM: 127.0.0.1: Serials: 0x400063C6; 
+8/4/2018 11:18:29 PM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add pouch'
+8/4/2018 11:18:30 PM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (1904, 2086, 28) in Felucca: "pouch"
+8/4/2018 11:18:30 PM: 127.0.0.1: Serials: 0x400063C7; 
+8/4/2018 11:19:41 PM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add regstone'
+8/4/2018 11:19:42 PM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (1903, 2072, 0) in Felucca: "regstone"
+8/4/2018 11:19:42 PM: 127.0.0.1: Serials: 0x400063C8; 
+8/4/2018 11:19:54 PM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'setallskills 99'
+8/4/2018 11:19:55 PM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') set property 'EverySkill.Base' of 0x949 "iroxj00.com" ('bigcheez') to '99'
+8/4/2018 11:21:57 PM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'set hue 0'
+8/4/2018 11:21:58 PM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') set property 'hue' of 0x40006397 (Halberd) to '0'
+8/5/2018 12:02:20 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add noble set name "a survivor"'
+8/5/2018 12:02:21 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (1900, 2088, 28) in Felucca: "noble" "set" "name" "a survivor"
+8/5/2018 12:02:21 AM: 127.0.0.1: Serials: 0x9D5; 
+8/5/2018 12:02:47 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'set title ""'
+8/5/2018 12:02:48 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') set property 'title' of 0x9D5 "a survivor" (no account) to ''
+8/5/2018 12:03:14 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add noble set name "a gypsy" title ""'
+8/5/2018 12:03:15 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (1900, 2090, 28) in Felucca: "noble" "set" "name" "a gypsy" "title" ""
+8/5/2018 12:03:15 AM: 127.0.0.1: Serials: 0x9D6; 
+8/5/2018 12:03:18 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'remove '
+8/5/2018 12:03:19 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') deleting 0x4000645C (Cloak)
+8/5/2018 12:03:20 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'remove '
+8/5/2018 12:03:20 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') deleting 0x40006458 (FancyShirt)
+8/5/2018 12:03:21 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'remove '
+8/5/2018 12:03:22 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') deleting 0x4000645A (Boots)
+8/5/2018 12:03:23 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'remove '
+8/5/2018 12:03:24 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') deleting 0x4000645B (BodySash)
+8/5/2018 12:03:25 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'remove '
+8/5/2018 12:03:26 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') deleting 0x4000645D (Longsword)
+8/5/2018 12:03:36 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'set cantwalk true frozen true'
+8/5/2018 12:03:37 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') set property 'cantwalk' of 0x9D6 "a gypsy" (no account) to 'True'
+8/5/2018 12:03:37 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') set property 'frozen' of 0x9D6 "a gypsy" (no account) to 'True'
+8/5/2018 12:03:38 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'set cantwalk true frozen true'
+8/5/2018 12:03:38 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') set property 'cantwalk' of 0x9D5 "a survivor" (no account) to 'True'
+8/5/2018 12:03:38 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') set property 'frozen' of 0x9D5 "a survivor" (no account) to 'True'
+8/5/2018 12:03:40 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'move '
+8/5/2018 12:03:43 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') moving 0x9D5 "a survivor" (no account) to (1898, 2094, 28)
+8/5/2018 12:04:00 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'props '
+8/5/2018 12:04:03 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'props '
+8/5/2018 12:04:10 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'set hue 1511'
+8/5/2018 12:04:10 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') set property 'hue' of 0x9D6 "a gypsy" (no account) to '1511'
+8/5/2018 12:04:19 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'props '
+8/5/2018 12:04:29 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'set hue 33783'
+8/5/2018 12:04:32 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') set property 'hue' of 0x9D6 "a gypsy" (no account) to '33783'
+8/5/2018 12:04:33 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'set hue 33783'
+8/5/2018 12:04:33 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') set property 'hue' of 0x949 "iroxj00.com" ('bigcheez') to '33783'
+8/5/2018 12:04:53 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add noble set name "a treasure hunter" title ""'
+8/5/2018 12:05:00 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add noble set name "a treasure hunter" title "" cantwalk true frozen true'
+8/5/2018 12:05:01 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (1899, 2094, 28) in Felucca: "noble" "set" "name" "a treasure hunter" "title" "" "cantwalk" "true" "frozen" "true"
+8/5/2018 12:05:01 AM: 127.0.0.1: Serials: 0x9D7; 
+8/5/2018 12:05:03 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'remove '
+8/5/2018 12:05:05 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') deleting 0x40006461 (FancyDress)
+8/5/2018 12:05:06 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'remove '
+8/5/2018 12:05:07 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') deleting 0x40006464 (Cloak)
+8/5/2018 12:05:14 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'dupe '
+8/5/2018 12:05:15 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') duping 0x40006450 (FancyShirt) (inBag=False; amount=1)
+8/5/2018 12:05:15 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') duped 0x40006450 (FancyShirt) creating 0x4000646C (FancyShirt)
+8/5/2018 12:05:16 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'dupe '
+8/5/2018 12:05:17 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') duping 0x40006453 (BodySash) (inBag=False; amount=1)
+8/5/2018 12:05:17 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') duped 0x40006453 (BodySash) creating 0x4000646F (BodySash)
+8/5/2018 12:05:32 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add bandana'
+8/5/2018 12:05:35 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add piratehat'
+8/5/2018 12:05:39 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add tricorn'
+8/5/2018 12:05:41 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (1901, 2092, 28) in Felucca: "TricorneHat"
+8/5/2018 12:05:41 AM: 127.0.0.1: Serials: 0x40006470; 
+8/5/2018 12:05:58 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add skeleton set hue 33 cantwalk true frozen true'
+8/5/2018 12:05:59 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (1901, 2087, 28) in Felucca: "skeleton" "set" "hue" "33" "cantwalk" "true" "frozen" "true"
+8/5/2018 12:05:59 AM: 127.0.0.1: Serials: 0x9D8; 
+8/5/2018 12:06:08 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'set hue 36'
+8/5/2018 12:06:08 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') set property 'hue' of 0x9D8 "a skeleton" (no account) to '36'
+8/5/2018 12:06:11 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'set hue 27'
+8/5/2018 12:06:11 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') set property 'hue' of 0x9D8 "a skeleton" (no account) to '27'
+8/5/2018 12:06:14 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'set hue 29'
+8/5/2018 12:06:14 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') set property 'hue' of 0x9D8 "a skeleton" (no account) to '29'
+8/5/2018 12:06:18 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'set hue 34'
+8/5/2018 12:06:19 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'set hue 34'
+8/5/2018 12:06:20 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') set property 'hue' of 0x9D8 "a skeleton" (no account) to '34'
+8/5/2018 12:06:33 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add skeleton set hue 0 cantwalk true frozen true'
+8/5/2018 12:06:34 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (1902, 2086, 28) in Felucca: "skeleton" "set" "hue" "0" "cantwalk" "true" "frozen" "true"
+8/5/2018 12:06:34 AM: 127.0.0.1: Serials: 0x9DA; 
+8/5/2018 12:06:37 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'set hue 1'
+8/5/2018 12:06:37 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') set property 'hue' of 0x9DA "a skeleton" (no account) to '1'
+8/5/2018 12:06:39 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'move '
+8/5/2018 12:06:41 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') moving 0x9DA "a skeleton" (no account) to (1902, 2087, 28)
+8/5/2018 12:06:48 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add chest'
+8/5/2018 12:06:50 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (1903, 2090, 28) in Felucca: "BoneChest"
+8/5/2018 12:06:50 AM: 127.0.0.1: Serials: 0x4000647F; 
+8/5/2018 12:06:53 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (1903, 2091, 28) in Felucca: "DragonChest"
+8/5/2018 12:06:53 AM: 127.0.0.1: Serials: 0x40006480; 
+8/5/2018 12:07:02 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (1899, 2093, 28) in Felucca: "MetalChest"
+8/5/2018 12:07:02 AM: 127.0.0.1: Serials: 0x40006487; 
+8/5/2018 12:07:07 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'set movable false'
+8/5/2018 12:07:08 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') set property 'movable' of 0x40006487 (MetalChest) to 'False'
+8/5/2018 12:07:12 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'set name "a treasure chest"'
+8/5/2018 12:07:12 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') set property 'name' of 0x40006487 (MetalChest) to 'a treasure chest'
+8/5/2018 12:07:19 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add gold set amount 500'
+8/5/2018 12:07:19 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (1901, 2092, 28) in Felucca: "gold" "set" "amount" "500"
+8/5/2018 12:07:19 AM: 127.0.0.1: Serials: 0x40006489; 
+8/5/2018 12:07:33 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'move '
+8/5/2018 12:07:35 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') moving 0x9D7 "a treasure hunter" (no account) to (1902, 2094, 28)
+8/5/2018 12:07:35 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'move '
+8/5/2018 12:07:36 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') moving 0x40006487 (MetalChest) to (1902, 2093, 28)
+8/5/2018 12:07:37 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'move '
+8/5/2018 12:07:38 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') moving 0x9D5 "a survivor" (no account) to (1899, 2094, 28)
+8/5/2018 12:07:42 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add band'
+8/5/2018 12:07:46 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add bandit'
+8/5/2018 12:07:51 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'save '
+8/5/2018 12:07:54 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'props '
+8/5/2018 12:08:03 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'set hue 1645'
+8/5/2018 12:08:08 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'set hue 1645'
+8/5/2018 12:08:08 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') set property 'hue' of 0x9D8 "a skeleton" (no account) to '1645'
+8/5/2018 12:08:11 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'remove '
+8/5/2018 12:08:13 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') deleting 0x4000647F (BoneChest)
+8/5/2018 12:08:14 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'remove '
+8/5/2018 12:08:14 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') deleting 0x40006480 (DragonChest)
+8/5/2018 12:08:19 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'save '
+8/5/2018 12:08:23 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add zombie set cantwalk true'
+8/5/2018 12:08:27 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add zombie set cantwalk true frozen true'
+8/5/2018 12:08:28 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (1904, 2087, 28) in Felucca: "zombie" "set" "cantwalk" "true" "frozen" "true"
+8/5/2018 12:08:28 AM: 127.0.0.1: Serials: 0x9DE; 
+8/5/2018 12:08:30 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add zombie set cantwalk true frozen true'
+8/5/2018 12:08:30 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (1905, 2087, 28) in Felucca: "zombie" "set" "cantwalk" "true" "frozen" "true"
+8/5/2018 12:08:30 AM: 127.0.0.1: Serials: 0x9DF; 
+8/5/2018 12:08:33 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'set hue 66'
+8/5/2018 12:08:33 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') set property 'hue' of 0x9DE "a zombie" (no account) to '66'
+8/5/2018 12:08:35 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'set hue 88'
+8/5/2018 12:08:36 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') set property 'hue' of 0x9DF "a zombie" (no account) to '88'
+8/5/2018 12:08:38 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'set hue 55'
+8/5/2018 12:08:38 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') set property 'hue' of 0x9DF "a zombie" (no account) to '55'
+8/5/2018 12:08:44 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'move '
+8/5/2018 12:08:46 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') moving 0x9DE "a zombie" (no account) to (1908, 2086, 28)
+8/5/2018 12:08:46 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'move '
+8/5/2018 12:08:47 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') moving 0x9DF "a zombie" (no account) to (1909, 2086, 28)
+8/5/2018 12:08:49 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'move '
+8/5/2018 12:08:49 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') moving 0x9DE "a zombie" (no account) to (1908, 2087, 28)
+8/5/2018 12:08:50 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'move '
+8/5/2018 12:08:50 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') moving 0x9DF "a zombie" (no account) to (1909, 2087, 28)
+8/5/2018 12:08:59 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'dupe '
+8/5/2018 12:09:03 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'save '
+8/5/2018 12:18:24 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'remove '
+8/5/2018 12:18:25 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') deleting 0x9DA "a skeleton" (no account)
+8/5/2018 12:18:33 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'remove '
+8/5/2018 12:18:35 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'set hue 0'
+8/5/2018 12:18:36 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') set property 'hue' of 0x9DE "a zombie" (no account) to '0'
+8/5/2018 12:23:47 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add bonehelm'
+8/5/2018 12:23:48 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (1903, 2088, 28) in Felucca: "bonehelm"
+8/5/2018 12:23:48 AM: 127.0.0.1: Serials: 0x400064A4; 
+8/5/2018 12:23:49 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add bonehelm'
+8/5/2018 12:23:49 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (1903, 2088, 29) in Felucca: "bonehelm"
+8/5/2018 12:23:49 AM: 127.0.0.1: Serials: 0x400064A6; 
+8/5/2018 12:23:50 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add bonehelm'
+8/5/2018 12:23:50 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (1903, 2088, 30) in Felucca: "bonehelm"
+8/5/2018 12:23:50 AM: 127.0.0.1: Serials: 0x400064A7; 
+8/5/2018 12:23:51 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add bonehelm'
+8/5/2018 12:23:51 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (1903, 2088, 31) in Felucca: "bonehelm"
+8/5/2018 12:23:51 AM: 127.0.0.1: Serials: 0x400064AA; 
+8/5/2018 12:23:52 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add bonehelm'
+8/5/2018 12:23:52 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (1903, 2088, 32) in Felucca: "bonehelm"
+8/5/2018 12:23:52 AM: 127.0.0.1: Serials: 0x400064AB; 
+8/5/2018 12:23:53 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add bonehelm'
+8/5/2018 12:23:53 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (1903, 2088, 33) in Felucca: "bonehelm"
+8/5/2018 12:23:53 AM: 127.0.0.1: Serials: 0x400064AF; 
+8/5/2018 12:23:54 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add bonehelm'
+8/5/2018 12:23:54 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (1903, 2088, 34) in Felucca: "bonehelm"
+8/5/2018 12:23:54 AM: 127.0.0.1: Serials: 0x400064B3; 
+8/5/2018 12:23:55 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add bonehelm'
+8/5/2018 12:23:55 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (1903, 2088, 35) in Felucca: "bonehelm"
+8/5/2018 12:23:55 AM: 127.0.0.1: Serials: 0x400064B5; 
+8/5/2018 12:23:56 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add bonehelm'
+8/5/2018 12:23:56 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (1903, 2088, 36) in Felucca: "bonehelm"
+8/5/2018 12:23:56 AM: 127.0.0.1: Serials: 0x400064B6; 
+8/5/2018 12:23:57 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add bonehelm'
+8/5/2018 12:23:57 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (1903, 2088, 37) in Felucca: "bonehelm"
+8/5/2018 12:23:57 AM: 127.0.0.1: Serials: 0x400064B7; 
+8/5/2018 12:23:58 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add bonehelm'
+8/5/2018 12:23:59 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (1903, 2088, 38) in Felucca: "bonehelm"
+8/5/2018 12:23:59 AM: 127.0.0.1: Serials: 0x400064B8; 
+8/5/2018 12:23:59 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add bonehelm'
+8/5/2018 12:24:00 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (1903, 2088, 39) in Felucca: "bonehelm"
+8/5/2018 12:24:00 AM: 127.0.0.1: Serials: 0x400064B9; 
+8/5/2018 12:24:05 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'wipe '
+8/5/2018 12:24:08 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') wiping from (1902, 2087, 28) to (1903, 2088, 40) in Felucca (Items, Mobiles)
+8/5/2018 12:24:14 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add hea'
+8/5/2018 12:24:17 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (1902, 2091, 28) in Felucca: "Blackheart"
+8/5/2018 12:24:17 AM: 127.0.0.1: Serials: 0x9E2; 
+8/5/2018 12:24:20 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'remove '
+8/5/2018 12:24:21 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') deleting 0x9E2 "Captain Blackheart" (no account)
+8/5/2018 12:24:24 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (1902, 2090, 28) in Felucca: "Head"
+8/5/2018 12:24:24 AM: 127.0.0.1: Serials: 0x400064C3; 
+8/5/2018 12:24:25 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (1902, 2090, 29) in Felucca: "Head"
+8/5/2018 12:24:25 AM: 127.0.0.1: Serials: 0x400064C4; 
+8/5/2018 12:24:26 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (1902, 2090, 30) in Felucca: "Head"
+8/5/2018 12:24:26 AM: 127.0.0.1: Serials: 0x400064C5; 
+8/5/2018 12:24:26 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (1902, 2090, 31) in Felucca: "Head"
+8/5/2018 12:24:26 AM: 127.0.0.1: Serials: 0x40007ABE; 
+8/5/2018 12:24:27 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (1902, 2090, 32) in Felucca: "Head"
+8/5/2018 12:24:27 AM: 127.0.0.1: Serials: 0x40007ABF; 
+8/5/2018 12:24:27 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (1902, 2090, 33) in Felucca: "Head"
+8/5/2018 12:24:27 AM: 127.0.0.1: Serials: 0x40007AFE; 
+8/5/2018 12:24:28 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (1902, 2090, 34) in Felucca: "Head"
+8/5/2018 12:24:28 AM: 127.0.0.1: Serials: 0x40007BEA; 
+8/5/2018 12:24:28 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (1902, 2090, 35) in Felucca: "Head"
+8/5/2018 12:24:28 AM: 127.0.0.1: Serials: 0x40007EC6; 
+8/5/2018 12:24:29 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (1902, 2090, 36) in Felucca: "Head"
+8/5/2018 12:24:29 AM: 127.0.0.1: Serials: 0x40007ED2; 
+8/5/2018 12:24:29 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (1902, 2090, 37) in Felucca: "Head"
+8/5/2018 12:24:29 AM: 127.0.0.1: Serials: 0x40008110; 
+8/5/2018 12:24:30 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (1902, 2090, 37) in Felucca: "Head"
+8/5/2018 12:24:30 AM: 127.0.0.1: Serials: 0x40008116; 
+8/5/2018 12:24:30 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (1902, 2090, 38) in Felucca: "Head"
+8/5/2018 12:24:30 AM: 127.0.0.1: Serials: 0x4000811C; 
+8/5/2018 12:24:30 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (1902, 2090, 39) in Felucca: "Head"
+8/5/2018 12:24:30 AM: 127.0.0.1: Serials: 0x4000812B; 
+8/5/2018 12:24:31 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (1902, 2090, 39) in Felucca: "Head"
+8/5/2018 12:24:31 AM: 127.0.0.1: Serials: 0x4000812E; 
+8/5/2018 12:24:31 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (1902, 2090, 40) in Felucca: "Head"
+8/5/2018 12:24:31 AM: 127.0.0.1: Serials: 0x4000812F; 
+8/5/2018 12:24:31 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (1902, 2090, 41) in Felucca: "Head"
+8/5/2018 12:24:31 AM: 127.0.0.1: Serials: 0x40008131; 
+8/5/2018 12:24:31 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (1902, 2090, 41) in Felucca: "Head"
+8/5/2018 12:24:31 AM: 127.0.0.1: Serials: 0x40008138; 
+8/5/2018 12:24:31 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (1902, 2090, 41) in Felucca: "Head"
+8/5/2018 12:24:31 AM: 127.0.0.1: Serials: 0x40008148; 
+8/5/2018 12:24:32 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (1902, 2090, 41) in Felucca: "Head"
+8/5/2018 12:24:32 AM: 127.0.0.1: Serials: 0x40008BC0; 
+8/5/2018 12:24:32 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (1902, 2090, 41) in Felucca: "Head"
+8/5/2018 12:24:32 AM: 127.0.0.1: Serials: 0x40008BC1; 
+8/5/2018 12:24:32 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (1902, 2090, 42) in Felucca: "Head"
+8/5/2018 12:24:32 AM: 127.0.0.1: Serials: 0x40008BC2; 
+8/5/2018 12:24:32 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (1902, 2090, 43) in Felucca: "Head"
+8/5/2018 12:24:32 AM: 127.0.0.1: Serials: 0x40008BC5; 
+8/5/2018 12:24:33 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (1902, 2090, 44) in Felucca: "Head"
+8/5/2018 12:24:33 AM: 127.0.0.1: Serials: 0x40008BC6; 
+8/5/2018 12:24:33 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (1902, 2090, 45) in Felucca: "Head"
+8/5/2018 12:24:33 AM: 127.0.0.1: Serials: 0x40008BC7; 
+8/5/2018 12:24:33 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (1902, 2090, 45) in Felucca: "Head"
+8/5/2018 12:24:33 AM: 127.0.0.1: Serials: 0x40008BC8; 
+8/5/2018 12:24:38 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'wipe '
+8/5/2018 12:24:40 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') wiping from (1902, 2090, 46) to (1902, 2090, 46) in Felucca (Items, Mobiles)
+8/5/2018 12:25:57 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 641'
+8/5/2018 12:25:58 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (1900, 2087, 28) in Felucca: "static" "641"
+8/5/2018 12:25:58 AM: 127.0.0.1: Serials: 0x40008BCB; 
+8/5/2018 12:26:19 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 1065'
+8/5/2018 12:26:21 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (1906, 2087, 28) in Felucca: "static" "1065"
+8/5/2018 12:26:21 AM: 127.0.0.1: Serials: 0x40008BCC; 
+8/5/2018 12:28:09 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 2167'
+8/5/2018 12:28:09 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (1903, 2087, 28) in Felucca: "static" "2167"
+8/5/2018 12:28:09 AM: 127.0.0.1: Serials: 0x40008BCD; 
+8/5/2018 12:28:31 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 18'
+8/5/2018 12:28:32 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (1904, 2087, 28) in Felucca: "static" "18"
+8/5/2018 12:28:32 AM: 127.0.0.1: Serials: 0x40008BCE; 
+8/5/2018 12:28:33 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 18'
+8/5/2018 12:28:33 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (1904, 2087, 38) in Felucca: "static" "18"
+8/5/2018 12:28:33 AM: 127.0.0.1: Serials: 0x40008BD1; 
+8/5/2018 12:28:38 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'set z 25'
+8/5/2018 12:28:38 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') set property 'z' of 0x40008BD1 (Static) to '25'
+8/5/2018 12:28:40 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'set z 44'
+8/5/2018 12:28:40 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') set property 'z' of 0x40008BD1 (Static) to '44'
+8/5/2018 12:28:44 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'move '
+8/5/2018 12:28:45 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') moving 0x40008BCD (Static) to (1904, 2087, 38)
+8/5/2018 12:28:56 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add book'
+8/5/2018 12:28:58 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (1904, 2087, 44) in Felucca: "BlueBook"
+8/5/2018 12:28:58 AM: 127.0.0.1: Serials: 0x40008BD2; 
+8/5/2018 12:29:05 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'set z 44'
+8/5/2018 12:29:06 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') set property 'z' of 0x40008BD2 (BlueBook) to '44'
+8/5/2018 12:29:07 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'set z 40'
+8/5/2018 12:29:08 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') set property 'z' of 0x40008BD2 (BlueBook) to '40'
+8/5/2018 12:29:11 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'set z 39'
+8/5/2018 12:29:11 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') set property 'z' of 0x40008BD2 (BlueBook) to '39'
+8/5/2018 12:29:14 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'set z 38'
+8/5/2018 12:29:14 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') set property 'z' of 0x40008BD2 (BlueBook) to '38'
+8/5/2018 12:29:17 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'set z 40'
+8/5/2018 12:29:17 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') set property 'z' of 0x40008BD2 (BlueBook) to '40'
+8/5/2018 12:29:32 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 17'
+8/5/2018 12:29:33 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (1904, 2087, 28) in Felucca: "static" "17"
+8/5/2018 12:29:33 AM: 127.0.0.1: Serials: 0x40008BD3; 
+8/5/2018 12:29:34 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 17'
+8/5/2018 12:29:34 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (1904, 2087, 38) in Felucca: "static" "17"
+8/5/2018 12:29:34 AM: 127.0.0.1: Serials: 0x40008BD4; 
+8/5/2018 12:29:35 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 17'
+8/5/2018 12:29:35 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (1904, 2087, 48) in Felucca: "static" "17"
+8/5/2018 12:29:35 AM: 127.0.0.1: Serials: 0x40008BD7; 
+8/5/2018 12:38:26 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'move '
+8/5/2018 12:38:28 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') moving 0x40008BD2 (BlueBook) to (1903, 2086, 28)
+8/5/2018 12:38:37 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'props '
+8/5/2018 12:38:47 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') set property 'Location' of 0x40008BD1 (Static) to '(1904, 2087, 43)'
+8/5/2018 12:38:51 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') set property 'Location' of 0x40008BD1 (Static) to '(1904, 2087, 42)'
+8/5/2018 1:06:09 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add noble set name "Gatekeeper" title ""'
+8/5/2018 1:06:10 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (1904, 2094, 28) in Felucca: "noble" "set" "name" "Gatekeeper" "title" ""
+8/5/2018 1:06:10 AM: 127.0.0.1: Serials: 0x9E7; 
+8/5/2018 1:06:13 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'set cantwalk true'
+8/5/2018 1:06:14 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') set property 'cantwalk' of 0x9E7 "Gatekeeper" (no account) to 'True'
+8/5/2018 1:06:16 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'move '
+8/5/2018 1:06:17 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') moving 0x9E7 "Gatekeeper" (no account) to (1904, 2093, 28)
+8/5/2018 1:06:19 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'move '
+8/5/2018 1:06:20 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') moving 0x9E7 "Gatekeeper" (no account) to (1904, 2093, 28)
+8/5/2018 1:06:21 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'move '
+8/5/2018 1:06:22 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') moving 0x9E7 "Gatekeeper" (no account) to (1904, 2094, 28)
+8/5/2018 1:06:24 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'move '
+8/5/2018 1:06:25 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') moving 0x9E7 "Gatekeeper" (no account) to (1905, 2094, 28)
+8/5/2018 1:06:26 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'move '
+8/5/2018 1:06:27 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') moving 0x9E7 "Gatekeeper" (no account) to (1903, 2094, 28)
+8/5/2018 1:06:28 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'move '
+8/5/2018 1:06:29 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') moving 0x9E7 "Gatekeeper" (no account) to (1900, 2094, 28)
+8/5/2018 1:06:30 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'move '
+8/5/2018 1:06:30 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') moving 0x9E7 "Gatekeeper" (no account) to (1901, 2094, 28)
+8/5/2018 1:06:31 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'move '
+8/5/2018 1:06:31 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') moving 0x9D7 "a treasure hunter" (no account) to (1903, 2094, 28)
+8/5/2018 1:06:32 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'move '
+8/5/2018 1:06:33 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') moving 0x40006487 (MetalChest) to (1903, 2093, 28)
+8/5/2018 1:06:39 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add platemail'
+8/5/2018 1:06:41 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add plat'
+8/5/2018 1:06:43 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add plate'
+8/5/2018 1:06:45 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add platehelm'
+8/5/2018 1:06:46 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (1903, 2089, 28) in Felucca: "platehelm"
+8/5/2018 1:06:46 AM: 127.0.0.1: Serials: 0x40008CE2; 
+8/5/2018 1:06:50 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add platelegs'
+8/5/2018 1:06:51 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (1902, 2090, 28) in Felucca: "platelegs"
+8/5/2018 1:06:51 AM: 127.0.0.1: Serials: 0x40008CEF; 
+8/5/2018 1:06:56 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'remove '
+8/5/2018 1:06:57 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') deleting 0x40008CBB (Boots)
+8/5/2018 1:06:59 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'remove '
+8/5/2018 1:07:00 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') deleting 0x40008CBC (BodySash)
+8/5/2018 1:07:04 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'set rawstr 90'
+8/5/2018 1:07:05 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') set property 'rawstr' of 0x9E7 "Gatekeeper" (no account) to '90'
+8/5/2018 1:07:08 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'set rawstr 90'
+8/5/2018 1:07:08 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') set property 'rawstr' of 0x9E7 "Gatekeeper" (no account) to '90'
+8/5/2018 1:07:12 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'remove '
+8/5/2018 1:07:13 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') deleting 0x40008CBA (ShortPants)
+8/5/2018 1:07:16 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add platechest'
+8/5/2018 1:07:17 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (1903, 2089, 28) in Felucca: "platechest"
+8/5/2018 1:07:17 AM: 127.0.0.1: Serials: 0x40008CF1; 
+8/5/2018 1:07:22 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add platearms'
+8/5/2018 1:07:23 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (1903, 2089, 28) in Felucca: "platearms"
+8/5/2018 1:07:23 AM: 127.0.0.1: Serials: 0x40008CF2; 
+8/5/2018 1:07:29 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add plategorget'
+8/5/2018 1:07:30 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (1903, 2089, 28) in Felucca: "plategorget"
+8/5/2018 1:07:30 AM: 127.0.0.1: Serials: 0x40008D3D; 
+8/5/2018 1:07:43 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add plategloves'
+8/5/2018 1:07:44 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (1903, 2089, 28) in Felucca: "plategloves"
+8/5/2018 1:07:44 AM: 127.0.0.1: Serials: 0x40008D40; 
+8/5/2018 1:07:50 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add ordershield'
+8/5/2018 1:07:51 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (1902, 2090, 28) in Felucca: "ordershield"
+8/5/2018 1:07:51 AM: 127.0.0.1: Serials: 0x40008D45; 
+8/5/2018 1:07:58 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'save '
+8/5/2018 10:14:26 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add barrel'
+8/5/2018 10:14:27 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (1897, 2093, 28) in Felucca: "barrel"
+8/5/2018 10:14:27 AM: 127.0.0.1: Serials: 0x4000F47A; 
+8/5/2018 10:14:30 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'set movable false'
+8/5/2018 10:14:31 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') set property 'movable' of 0x4000F47A (Barrel) to 'False'
+8/5/2018 10:59:07 PM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'm tele'
+8/6/2018 12:25:06 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'tele '
+8/6/2018 12:50:31 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'go britain'
+8/6/2018 12:50:33 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'm tele'
+8/6/2018 12:52:07 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 89'
+8/6/2018 12:52:08 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4210, 622, 0) in Felucca: "static" "89"
+8/6/2018 12:52:08 AM: 127.0.0.1: Serials: 0x4001A60F; 
+8/6/2018 12:52:11 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 88'
+8/6/2018 12:52:12 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4209, 622, 0) in Felucca: "static" "88"
+8/6/2018 12:52:12 AM: 127.0.0.1: Serials: 0x4001A610; 
+8/6/2018 12:52:13 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 88'
+8/6/2018 12:52:13 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4208, 622, 0) in Felucca: "static" "88"
+8/6/2018 12:52:13 AM: 127.0.0.1: Serials: 0x4001A611; 
+8/6/2018 12:52:14 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 88'
+8/6/2018 12:52:14 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4207, 622, 0) in Felucca: "static" "88"
+8/6/2018 12:52:14 AM: 127.0.0.1: Serials: 0x4001A612; 
+8/6/2018 12:52:16 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 87'
+8/6/2018 12:52:17 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4210, 621, 0) in Felucca: "static" "87"
+8/6/2018 12:52:17 AM: 127.0.0.1: Serials: 0x4001A613; 
+8/6/2018 12:52:18 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 87'
+8/6/2018 12:52:18 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4210, 619, 0) in Felucca: "static" "87"
+8/6/2018 12:52:18 AM: 127.0.0.1: Serials: 0x4001A614; 
+8/6/2018 12:52:19 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 87'
+8/6/2018 12:52:19 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4210, 620, 0) in Felucca: "static" "87"
+8/6/2018 12:52:19 AM: 127.0.0.1: Serials: 0x4001A615; 
+8/6/2018 12:52:25 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 90'
+8/6/2018 12:52:27 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4200, 613, 0) in Felucca: "static" "90"
+8/6/2018 12:52:27 AM: 127.0.0.1: Serials: 0x4001A616; 
+8/6/2018 12:52:30 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 87'
+8/6/2018 12:52:31 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4200, 614, 0) in Felucca: "static" "87"
+8/6/2018 12:52:31 AM: 127.0.0.1: Serials: 0x4001A617; 
+8/6/2018 12:52:32 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 87'
+8/6/2018 12:52:32 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4200, 615, 0) in Felucca: "static" "87"
+8/6/2018 12:52:32 AM: 127.0.0.1: Serials: 0x4001A618; 
+8/6/2018 12:52:33 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 87'
+8/6/2018 12:52:33 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4200, 613, 0) in Felucca: "static" "87"
+8/6/2018 12:52:33 AM: 127.0.0.1: Serials: 0x4001A619; 
+8/6/2018 12:52:34 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 87'
+8/6/2018 12:52:34 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4200, 612, 0) in Felucca: "static" "87"
+8/6/2018 12:52:34 AM: 127.0.0.1: Serials: 0x4001A61A; 
+8/6/2018 12:52:35 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 87'
+8/6/2018 12:52:35 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4200, 611, 0) in Felucca: "static" "87"
+8/6/2018 12:52:35 AM: 127.0.0.1: Serials: 0x4001A61B; 
+8/6/2018 12:52:36 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 87'
+8/6/2018 12:52:36 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4200, 610, 0) in Felucca: "static" "87"
+8/6/2018 12:52:36 AM: 127.0.0.1: Serials: 0x4001A61C; 
+8/6/2018 12:52:37 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 87'
+8/6/2018 12:52:37 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4200, 609, 0) in Felucca: "static" "87"
+8/6/2018 12:52:37 AM: 127.0.0.1: Serials: 0x4001A61D; 
+8/6/2018 12:52:44 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'wipe '
+8/6/2018 12:52:45 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') wiping from (4200, 609, 0) to (4210, 623, 20) in Felucca (Items, Mobiles)
+8/6/2018 12:52:55 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 463'
+8/6/2018 12:52:58 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4211, 621, 0) in Felucca: "static" "463"
+8/6/2018 12:52:58 AM: 127.0.0.1: Serials: 0x4001A62B; 
+8/6/2018 12:53:03 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 465'
+8/6/2018 12:53:04 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4211, 620, 0) in Felucca: "static" "465"
+8/6/2018 12:53:04 AM: 127.0.0.1: Serials: 0x4001A62C; 
+8/6/2018 12:53:05 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 465'
+8/6/2018 12:53:05 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4211, 618, 0) in Felucca: "static" "465"
+8/6/2018 12:53:05 AM: 127.0.0.1: Serials: 0x4001A62D; 
+8/6/2018 12:53:08 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'tile static 465'
+8/6/2018 12:53:09 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4211, 619, 0) in Felucca: "static" "465"
+8/6/2018 12:53:09 AM: 127.0.0.1: Serials: 0x4001A62E; 
+8/6/2018 12:53:09 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'tile static 465'
+8/6/2018 12:53:10 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building from (4211, 614, 0) to (4211, 617, 0) in Felucca: "static" "465"
+8/6/2018 12:53:10 AM: 127.0.0.1: Serials: 0x4001A62F; 0x4001A631; 0x4001A639; 0x4001A641; 
+8/6/2018 12:53:11 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'tile static 465'
+8/6/2018 12:53:11 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building from (4211, 612, 0) to (4211, 613, 0) in Felucca: "static" "465"
+8/6/2018 12:53:11 AM: 127.0.0.1: Serials: 0x4001A65F; 0x4001A661; 
+8/6/2018 12:53:12 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'tile static 465'
+8/6/2018 12:53:17 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building from (4201, 610, 0) to (4202, 621, 0) in Felucca: "static" "465"
+8/6/2018 12:53:17 AM: 127.0.0.1: Serials: 0x4001A664; 0x4001A666; 0x4001A668; 0x4001A67F; 0x4001A682; 0x4001A68F; 0x4001A690; 0x4001A691; 0x4001A692; 0x4001A693; 0x4001A694; 0x4001A696; 0x4001A6A4; 0x4001A6A6; 0x4001A6AE; 0x4001A6AF; 0x4001A6D5; 0x4001A6DE; 0x4001A6E9; 0x4001A6EA; 0x4001A6EB; 0x4001A6EC; 0x4001A6F5; 0x4001A70B; 
+8/6/2018 12:53:23 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'tile static 464'
+8/6/2018 12:53:25 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building from (4203, 621, 0) to (4210, 621, 0) in Felucca: "static" "464"
+8/6/2018 12:53:25 AM: 127.0.0.1: Serials: 0x4001A716; 0x4001A717; 0x4001A718; 0x4001A719; 0x4001A71A; 0x4001A71B; 0x4001A71C; 0x4001A71D; 
+8/6/2018 12:53:26 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'tile static 464'
+8/6/2018 12:53:26 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4202, 621, 0) in Felucca: "static" "464"
+8/6/2018 12:53:26 AM: 127.0.0.1: Serials: 0x4001A71E; 
+8/6/2018 12:53:28 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'wipe '
+8/6/2018 12:53:29 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') wiping from (4202, 610, 20) to (4202, 619, 20) in Felucca (Items, Mobiles)
+8/6/2018 12:53:30 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'remove '
+8/6/2018 12:53:32 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') deleting 0x4001A6F5 (Static)
+8/6/2018 12:53:32 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'remove '
+8/6/2018 12:53:32 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') deleting 0x4001A70B (Static)
+8/6/2018 12:53:38 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add woodenchest'
+8/6/2018 12:53:38 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4203, 614, 0) in Felucca: "woodenchest"
+8/6/2018 12:53:38 AM: 127.0.0.1: Serials: 0x4001A71F; 
+8/6/2018 12:53:42 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'flip '
+8/6/2018 12:53:44 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'move '
+8/6/2018 12:53:45 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') moving 0x4001A71F (WoodenChest) to (4202, 614, 0)
+8/6/2018 12:53:48 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'set movable false'
+8/6/2018 12:53:49 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') set property 'movable' of 0x4001A71F (WoodenChest) to 'False'
+8/6/2018 12:54:07 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'tile static 1313'
+8/6/2018 12:54:08 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building from (4202, 610, 0) to (4203, 611, 0) in Felucca: "static" "1313"
+8/6/2018 12:54:08 AM: 127.0.0.1: Serials: 0x4001A720; 0x4001A721; 0x4001A722; 0x4001A723; 
+8/6/2018 12:54:09 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'tile static 1313'
+8/6/2018 12:54:10 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building from (4202, 612, 0) to (4203, 613, 0) in Felucca: "static" "1313"
+8/6/2018 12:54:10 AM: 127.0.0.1: Serials: 0x4001A724; 0x4001A725; 0x4001A726; 0x4001A727; 
+8/6/2018 12:54:11 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'tile static 1313'
+8/6/2018 12:54:12 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building from (4202, 614, 0) to (4203, 619, 0) in Felucca: "static" "1313"
+8/6/2018 12:54:12 AM: 127.0.0.1: Serials: 0x4001A728; 0x4001A729; 0x4001A72A; 0x4001A72B; 0x4001A72C; 0x4001A72D; 0x4001A72E; 0x4001A72F; 0x4001A730; 0x4001A731; 0x4001A732; 0x4001A733; 
+8/6/2018 12:54:13 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'tile static 1313'
+8/6/2018 12:54:14 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building from (4204, 611, 0) to (4206, 619, 0) in Felucca: "static" "1313"
+8/6/2018 12:54:14 AM: 127.0.0.1: Serials: 0x4001A734; 0x4001A735; 0x4001A736; 0x4001A737; 0x4001A738; 0x4001A739; 0x4001A73A; 0x4001A73B; 0x4001A73C; 0x4001A73D; 0x4001A73E; 0x4001A73F; 0x4001A755; 0x4001A757; 0x4001A758; 0x4001A759; 0x4001A75A; 0x4001A75B; 0x4001A75C; 0x4001A75D; 0x4001A761; 0x4001A763; 0x4001A764; 0x4001A766; 0x4001A767; 0x4001A768; 0x4001A769; 
+8/6/2018 12:54:15 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'tile static 1313'
+8/6/2018 12:54:16 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building from (4207, 611, 0) to (4207, 619, 0) in Felucca: "static" "1313"
+8/6/2018 12:54:16 AM: 127.0.0.1: Serials: 0x4001A76A; 0x4001A76F; 0x4001A774; 0x4001A779; 0x4001A77E; 0x4001A783; 0x4001A784; 0x4001A785; 0x4001A786; 
+8/6/2018 12:54:17 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'tile static 1313'
+8/6/2018 12:54:18 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building from (4208, 612, 0) to (4209, 619, 0) in Felucca: "static" "1313"
+8/6/2018 12:54:18 AM: 127.0.0.1: Serials: 0x4001A787; 0x4001A789; 0x4001A78A; 0x4001A78B; 0x4001A78C; 0x4001A78D; 0x4001A78E; 0x4001A791; 0x4001A792; 0x4001A793; 0x4001A794; 0x4001A7B2; 0x4001A7B7; 0x4001A7C3; 0x4001A7C4; 0x4001A7C5; 
+8/6/2018 12:54:19 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'tile static 1313'
+8/6/2018 12:54:20 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building from (4205, 610, 1) to (4207, 610, 1) in Felucca: "static" "1313"
+8/6/2018 12:54:20 AM: 127.0.0.1: Serials: 0x4001A7C6; 0x4001A7C7; 0x4001A7C8; 
+8/6/2018 12:54:21 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'tile static 1313'
+8/6/2018 12:54:22 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4204, 610, 0) in Felucca: "static" "1313"
+8/6/2018 12:54:22 AM: 127.0.0.1: Serials: 0x4001A7D2; 
+8/6/2018 12:54:25 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'set z 0'
+8/6/2018 12:54:26 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') set property 'z' of 0x4001A7C6 (Static) to '0'
+8/6/2018 12:54:27 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'set z 5'
+8/6/2018 12:54:27 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') set property 'z' of 0x4001A7C6 (Static) to '5'
+8/6/2018 12:54:29 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'set z 3'
+8/6/2018 12:54:30 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'set z 3'
+8/6/2018 12:54:30 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') set property 'z' of 0x4001A7C6 (Static) to '3'
+8/6/2018 12:54:33 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'set z 1'
+8/6/2018 12:54:33 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') set property 'z' of 0x4001A7C6 (Static) to '1'
+8/6/2018 12:54:36 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'remove '
+8/6/2018 12:54:37 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') deleting 0x4001A7C6 (Static)
+8/6/2018 12:54:37 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'remove '
+8/6/2018 12:54:38 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') deleting 0x4001A7C7 (Static)
+8/6/2018 12:54:38 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'remove '
+8/6/2018 12:54:38 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') deleting 0x4001A7C8 (Static)
+8/6/2018 12:54:51 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'tile static 1313'
+8/6/2018 12:54:53 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building from (4202, 612, 20) to (4211, 621, 20) in Felucca: "static" "1313"
+8/6/2018 12:54:53 AM: 127.0.0.1: Serials: 0x4001A7D5; 0x4001A7D6; 0x4001A7D7; 0x4001A7D8; 0x4001A7DF; 0x4001A7EE; 0x4001A7FC; 0x4001A805; 0x4001A806; 0x4001A808; 0x4001A80A; 0x4001A80B; 0x4001A80C; 0x4001A80D; 0x4001A813; 0x4001A814; 0x4001A815; 0x4001A816; 0x4001A817; 0x4001A818; 0x4001A81C; 0x4001A81D; 0x4001A81E; 0x4001A81F; 0x4001A820; 0x4001A821; 0x4001A822; 0x4001A823; 0x4001A824; 0x4001A825; 0x4001A826; 0x4001A827; 0x4001A828; 0x4001A829; 0x4001A82A; 0x4001A82B; 0x4001A82C; 0x4001A82D; 0x4001A82E; 0x4001A82F; 0x4001A830; 0x4001A831; 0x4001A832; 0x4001A833; 0x4001A834; 0x4001A835; 0x4001A836; 0x4001A837; 0x4001A838; 0x4001A839; 0x4001A83A; 0x4001A83B; 0x4001A83C; 0x4001A83D; 0x4001A83E; 0x4001A83F; 0x4001A840; 0x4001A841; 0x4001A842; 0x4001A843; 0x4001A844; 0x4001A845; 0x4001A846; 0x4001A847; 0x4001A848; 0x4001A849; 0x4001A84A; 0x4001A84B; 0x4001A84C; 0x4001A84D; 0x4001A84E; 0x4001A84F; 0x4001A850; 0x4001A851; 0x4001A852; 0x4001A853; 0x4001A854; 0x4001A855; 0x4001A856; 0x4001A857; 0x4001A858; 0x4001A859; 0x4001A85A; 0x4001A85B; 0x4001A85C; 0x4001A85D; 0x4001A85E; 0x4001A85F; 0x4001A860; 0x4001A861; 0x4001A862; 0x4001A863; 0x4001A864; 0x4001A865; 0x4001A866; 0x4001A867; 0x4001A868; 0x4001A869; 0x4001A86A; 0x4001A86B; 
+8/6/2018 12:54:56 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'tile static 1313'
+8/6/2018 12:54:58 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building from (4201, 610, 20) to (4209, 612, 20) in Felucca: "static" "1313"
+8/6/2018 12:54:58 AM: 127.0.0.1: Serials: 0x4001A86C; 0x4001A86D; 0x4001A86E; 0x4001A86F; 0x4001A870; 0x4001A871; 0x4001A872; 0x4001A873; 0x4001A874; 0x4001A877; 0x4001A878; 0x4001A8FB; 0x4001A901; 0x4001A907; 0x4001A90D; 0x4001A918; 0x4001A91A; 0x4001A91B; 0x4001A921; 0x4001A922; 0x4001A923; 0x4001A924; 0x4001A925; 0x4001A926; 0x4001A927; 0x4001A928; 0x4001A929; 
+8/6/2018 12:55:00 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'remove '
+8/6/2018 12:55:01 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') deleting 0x4001A86E (Static)
+8/6/2018 12:55:01 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'remove '
+8/6/2018 12:55:01 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') deleting 0x4001A86D (Static)
+8/6/2018 12:55:02 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'remove '
+8/6/2018 12:55:02 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') deleting 0x4001A86C (Static)
+8/6/2018 12:55:07 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'remove '
+8/6/2018 12:55:09 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'remove '
+8/6/2018 12:55:09 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') deleting 0x4001A641 (Static)
+8/6/2018 12:55:10 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'remove '
+8/6/2018 12:55:10 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') deleting 0x4001A639 (Static)
+8/6/2018 12:55:21 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'tele '
+8/6/2018 12:55:41 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'tile static 488'
+8/6/2018 12:55:42 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4211, 621, 20) in Felucca: "static" "488"
+8/6/2018 12:55:42 AM: 127.0.0.1: Serials: 0x4001A92A; 
+8/6/2018 12:55:46 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'tile static 489'
+8/6/2018 12:55:47 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building from (4202, 621, 20) to (4210, 621, 20) in Felucca: "static" "489"
+8/6/2018 12:55:47 AM: 127.0.0.1: Serials: 0x4001A92B; 0x4001A92C; 0x4001A92D; 0x4001A92E; 0x4001A92F; 0x4001A930; 0x4001A931; 0x4001A932; 0x4001A933; 
+8/6/2018 12:55:48 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'tile static 489'
+8/6/2018 12:55:49 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building from (4202, 610, 20) to (4209, 610, 20) in Felucca: "static" "489"
+8/6/2018 12:55:49 AM: 127.0.0.1: Serials: 0x4001A934; 0x4001A935; 0x4001A936; 0x4001A937; 0x4001A938; 0x4001A939; 0x4001A93A; 0x4001A93B; 
+8/6/2018 12:55:52 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'tile static 489'
+8/6/2018 12:55:53 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building from (4210, 612, 20) to (4211, 612, 20) in Felucca: "static" "489"
+8/6/2018 12:55:53 AM: 127.0.0.1: Serials: 0x4001A93C; 0x4001A93D; 
+8/6/2018 12:55:58 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'tile static 490'
+8/6/2018 12:55:59 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building from (4211, 613, 20) to (4211, 620, 20) in Felucca: "static" "490"
+8/6/2018 12:55:59 AM: 127.0.0.1: Serials: 0x4001A93E; 0x4001A93F; 0x4001A940; 0x4001A941; 0x4001A942; 0x4001A943; 0x4001A944; 0x4001A945; 
+8/6/2018 12:56:00 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'tile static 490'
+8/6/2018 12:56:03 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building from (4201, 610, 20) to (4201, 621, 20) in Felucca: "static" "490"
+8/6/2018 12:56:03 AM: 127.0.0.1: Serials: 0x4001A946; 0x4001A947; 0x4001A948; 0x4001A949; 0x4001A94A; 0x4001A94B; 0x4001A94C; 0x4001A94D; 0x4001A94E; 0x4001A94F; 0x4001A950; 0x4001A951; 
+8/6/2018 12:56:05 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'props '
+8/6/2018 12:56:10 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') set property 'Location' of 0x4001A934 (Static) to '(4202, 611, 20)'
+8/6/2018 12:56:19 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'set z 5'
+8/6/2018 12:56:21 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') set property 'z' of 0x4001A934 (Static) to '5'
+8/6/2018 12:56:24 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'set z 20'
+8/6/2018 12:56:24 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') set property 'z' of 0x4001A934 (Static) to '20'
+8/6/2018 12:56:28 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'set y 609'
+8/6/2018 12:56:29 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') set property 'y' of 0x4001A934 (Static) to '609'
+8/6/2018 12:56:30 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'set y 609'
+8/6/2018 12:56:30 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') set property 'y' of 0x4001A935 (Static) to '609'
+8/6/2018 12:56:31 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'set y 609'
+8/6/2018 12:56:31 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') set property 'y' of 0x4001A936 (Static) to '609'
+8/6/2018 12:56:31 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'set y 609'
+8/6/2018 12:56:32 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') set property 'y' of 0x4001A937 (Static) to '609'
+8/6/2018 12:56:32 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'set y 609'
+8/6/2018 12:56:33 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') set property 'y' of 0x4001A938 (Static) to '609'
+8/6/2018 12:56:33 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'set y 609'
+8/6/2018 12:56:33 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') set property 'y' of 0x4001A939 (Static) to '609'
+8/6/2018 12:56:34 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'set y 609'
+8/6/2018 12:56:34 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') set property 'y' of 0x4001A93A (Static) to '609'
+8/6/2018 12:56:35 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'set y 609'
+8/6/2018 12:56:35 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') set property 'y' of 0x4001A93B (Static) to '609'
+8/6/2018 12:56:43 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 491'
+8/6/2018 12:56:44 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4202, 610, 20) in Felucca: "static" "491"
+8/6/2018 12:56:44 AM: 127.0.0.1: Serials: 0x4001A952; 
+8/6/2018 12:56:48 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'set y 609'
+8/6/2018 12:56:49 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') set property 'y' of 0x4001A952 (Static) to '609'
+8/6/2018 12:56:50 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'props '
+8/6/2018 12:56:56 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') set property 'Location' of 0x4001A952 (Static) to '(4201, 609, 20)'
+8/6/2018 12:56:59 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'props '
+8/6/2018 12:57:04 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'set y 611'
+8/6/2018 12:57:04 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') set property 'y' of 0x4001A93C (Static) to '611'
+8/6/2018 12:57:05 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'set y 611'
+8/6/2018 12:57:05 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') set property 'y' of 0x4001A93D (Static) to '611'
+8/6/2018 12:57:12 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 490'
+8/6/2018 12:57:12 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4211, 612, 20) in Felucca: "static" "490"
+8/6/2018 12:57:12 AM: 127.0.0.1: Serials: 0x4001A95C; 
+8/6/2018 12:57:13 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 490'
+8/6/2018 12:57:13 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4209, 610, 20) in Felucca: "static" "490"
+8/6/2018 12:57:13 AM: 127.0.0.1: Serials: 0x4001A95D; 
+8/6/2018 12:57:14 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 490'
+8/6/2018 12:57:14 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4209, 611, 20) in Felucca: "static" "490"
+8/6/2018 12:57:14 AM: 127.0.0.1: Serials: 0x4001A95E; 
+8/6/2018 12:57:16 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'tele '
+8/6/2018 12:57:42 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'tile static 1313'
+8/6/2018 12:57:43 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building from (4210, 614, 0) to (4211, 617, 0) in Felucca: "static" "1313"
+8/6/2018 12:57:43 AM: 127.0.0.1: Serials: 0x4001A95F; 0x4001A960; 0x4001A961; 0x4001A962; 0x4001A963; 0x4001A964; 0x4001A965; 0x4001A966; 
+8/6/2018 12:58:05 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 470'
+8/6/2018 12:58:06 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4212, 618, 0) in Felucca: "static" "470"
+8/6/2018 12:58:06 AM: 127.0.0.1: Serials: 0x4001A967; 
+8/6/2018 12:58:07 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 470'
+8/6/2018 12:58:07 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4212, 615, 0) in Felucca: "static" "470"
+8/6/2018 12:58:07 AM: 127.0.0.1: Serials: 0x4001A968; 
+8/6/2018 12:58:26 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 483'
+8/6/2018 12:58:26 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4212, 618, 0) in Felucca: "static" "483"
+8/6/2018 12:58:26 AM: 127.0.0.1: Serials: 0x4001A969; 
+8/6/2018 12:58:27 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 483'
+8/6/2018 12:58:28 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4212, 615, 0) in Felucca: "static" "483"
+8/6/2018 12:58:28 AM: 127.0.0.1: Serials: 0x4001A96A; 
+8/6/2018 12:58:58 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'remove '
+8/6/2018 12:59:10 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 474'
+8/6/2018 12:59:11 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4213, 618, 0) in Felucca: "static" "474"
+8/6/2018 12:59:11 AM: 127.0.0.1: Serials: 0x4001A96B; 
+8/6/2018 12:59:11 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 474'
+8/6/2018 12:59:12 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4213, 615, 0) in Felucca: "static" "474"
+8/6/2018 12:59:12 AM: 127.0.0.1: Serials: 0x4001A96C; 
+8/6/2018 12:59:16 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 474'
+8/6/2018 12:59:16 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4214, 618, 0) in Felucca: "static" "474"
+8/6/2018 12:59:16 AM: 127.0.0.1: Serials: 0x4001A975; 
+8/6/2018 12:59:17 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 474'
+8/6/2018 12:59:17 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4214, 615, 0) in Felucca: "static" "474"
+8/6/2018 12:59:17 AM: 127.0.0.1: Serials: 0x4001A976; 
+8/6/2018 12:59:20 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 474'
+8/6/2018 12:59:21 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4215, 615, 0) in Felucca: "static" "474"
+8/6/2018 12:59:21 AM: 127.0.0.1: Serials: 0x4001A977; 
+8/6/2018 12:59:21 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 474'
+8/6/2018 12:59:22 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4215, 618, 0) in Felucca: "static" "474"
+8/6/2018 12:59:22 AM: 127.0.0.1: Serials: 0x4001A978; 
+8/6/2018 12:59:22 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 474'
+8/6/2018 12:59:23 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4216, 618, 0) in Felucca: "static" "474"
+8/6/2018 12:59:23 AM: 127.0.0.1: Serials: 0x4001A979; 
+8/6/2018 12:59:23 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 474'
+8/6/2018 12:59:24 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4216, 615, 0) in Felucca: "static" "474"
+8/6/2018 12:59:24 AM: 127.0.0.1: Serials: 0x4001A97A; 
+8/6/2018 12:59:30 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'tile static 1313'
+8/6/2018 12:59:31 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building from (4212, 616, 0) to (4216, 617, 0) in Felucca: "static" "1313"
+8/6/2018 12:59:31 AM: 127.0.0.1: Serials: 0x4001A97B; 0x4001A97C; 0x4001A97D; 0x4001A97E; 0x4001A97F; 0x4001A980; 0x4001A981; 0x4001A982; 0x4001A983; 0x4001A984; 
+8/6/2018 1:00:23 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 1372'
+8/6/2018 1:00:23 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4214, 616, 0) in Felucca: "static" "1372"
+8/6/2018 1:00:23 AM: 127.0.0.1: Serials: 0x4001A985; 
+8/6/2018 1:00:24 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 1372'
+8/6/2018 1:00:24 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4214, 617, 0) in Felucca: "static" "1372"
+8/6/2018 1:00:24 AM: 127.0.0.1: Serials: 0x4001A986; 
+8/6/2018 1:00:28 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'set hue 33'
+8/6/2018 1:00:28 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') set property 'hue' of 0x4001A985 (Static) to '33'
+8/6/2018 1:00:29 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'set hue 33'
+8/6/2018 1:00:29 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') set property 'hue' of 0x4001A986 (Static) to '33'
+8/6/2018 1:00:34 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'remove '
+8/6/2018 1:00:35 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') deleting 0x4001A985 (Static)
+8/6/2018 1:00:36 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'remove '
+8/6/2018 1:00:36 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') deleting 0x4001A986 (Static)
+8/6/2018 1:02:04 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 2567'
+8/6/2018 1:02:04 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4202, 615, 0) in Felucca: "static" "2567"
+8/6/2018 1:02:04 AM: 127.0.0.1: Serials: 0x4001A987; 
+8/6/2018 1:02:05 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 2567'
+8/6/2018 1:02:05 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4201, 613, 20) in Felucca: "static" "2567"
+8/6/2018 1:02:06 AM: 127.0.0.1: Serials: 0x4001A988; 
+8/6/2018 1:02:07 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 2567'
+8/6/2018 1:02:07 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4202, 613, 0) in Felucca: "static" "2567"
+8/6/2018 1:02:07 AM: 127.0.0.1: Serials: 0x4001A999; 
+8/6/2018 1:02:09 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'props '
+8/6/2018 1:02:14 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'set z 5'
+8/6/2018 1:02:15 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') set property 'z' of 0x4001A987 (Static) to '5'
+8/6/2018 1:02:16 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'set z 9'
+8/6/2018 1:02:17 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') set property 'z' of 0x4001A987 (Static) to '9'
+8/6/2018 1:02:18 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'set z 9'
+8/6/2018 1:02:18 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') set property 'z' of 0x4001A999 (Static) to '9'
+8/6/2018 1:03:25 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 3670'
+8/6/2018 1:03:33 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4214, 620, 0) in Felucca: "static" "3670"
+8/6/2018 1:03:33 AM: 127.0.0.1: Serials: 0x4001A9BF; 
+8/6/2018 1:03:44 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 3811'
+8/6/2018 1:03:45 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4212, 612, 0) in Felucca: "static" "3811"
+8/6/2018 1:03:45 AM: 127.0.0.1: Serials: 0x4001A9C0; 
+8/6/2018 1:04:01 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 3800'
+8/6/2018 1:04:03 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4214, 623, 0) in Felucca: "static" "3800"
+8/6/2018 1:04:03 AM: 127.0.0.1: Serials: 0x4001A9C1; 
+8/6/2018 1:04:03 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 3800'
+8/6/2018 1:04:04 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4216, 623, 0) in Felucca: "static" "3800"
+8/6/2018 1:04:04 AM: 127.0.0.1: Serials: 0x4001AB31; 
+8/6/2018 1:04:05 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 3800'
+8/6/2018 1:04:05 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4218, 623, 0) in Felucca: "static" "3800"
+8/6/2018 1:04:05 AM: 127.0.0.1: Serials: 0x4001AB3A; 
+8/6/2018 1:04:06 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 3800'
+8/6/2018 1:04:07 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4214, 626, 0) in Felucca: "static" "3800"
+8/6/2018 1:04:07 AM: 127.0.0.1: Serials: 0x4001AC13; 
+8/6/2018 1:04:07 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 3800'
+8/6/2018 1:04:08 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4216, 626, 0) in Felucca: "static" "3800"
+8/6/2018 1:04:08 AM: 127.0.0.1: Serials: 0x4001AC1B; 
+8/6/2018 1:04:09 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 3800'
+8/6/2018 1:04:09 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4218, 626, 0) in Felucca: "static" "3800"
+8/6/2018 1:04:09 AM: 127.0.0.1: Serials: 0x4001AC1D; 
+8/6/2018 1:04:10 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 3800'
+8/6/2018 1:04:11 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4214, 629, 0) in Felucca: "static" "3800"
+8/6/2018 1:04:11 AM: 127.0.0.1: Serials: 0x4001AC1E; 
+8/6/2018 1:04:12 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 3800'
+8/6/2018 1:04:12 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4216, 629, 0) in Felucca: "static" "3800"
+8/6/2018 1:04:12 AM: 127.0.0.1: Serials: 0x4001AC1F; 
+8/6/2018 1:04:13 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 3800'
+8/6/2018 1:04:13 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4218, 629, 0) in Felucca: "static" "3800"
+8/6/2018 1:04:13 AM: 127.0.0.1: Serials: 0x4001AC23; 
+8/6/2018 1:04:23 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 3807'
+8/6/2018 1:04:23 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4214, 624, 0) in Felucca: "static" "3807"
+8/6/2018 1:04:23 AM: 127.0.0.1: Serials: 0x4001AC24; 
+8/6/2018 1:04:24 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 3807'
+8/6/2018 1:04:24 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4216, 624, 0) in Felucca: "static" "3807"
+8/6/2018 1:04:24 AM: 127.0.0.1: Serials: 0x4001AC25; 
+8/6/2018 1:04:25 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 3807'
+8/6/2018 1:04:25 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4218, 624, 0) in Felucca: "static" "3807"
+8/6/2018 1:04:25 AM: 127.0.0.1: Serials: 0x4001AC26; 
+8/6/2018 1:04:26 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 3807'
+8/6/2018 1:04:26 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4218, 627, 0) in Felucca: "static" "3807"
+8/6/2018 1:04:26 AM: 127.0.0.1: Serials: 0x4001AC27; 
+8/6/2018 1:04:27 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 3807'
+8/6/2018 1:04:27 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4216, 627, 0) in Felucca: "static" "3807"
+8/6/2018 1:04:27 AM: 127.0.0.1: Serials: 0x4001AC28; 
+8/6/2018 1:04:28 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 3807'
+8/6/2018 1:04:28 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4214, 627, 0) in Felucca: "static" "3807"
+8/6/2018 1:04:28 AM: 127.0.0.1: Serials: 0x4001AC7F; 
+8/6/2018 1:04:28 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 3807'
+8/6/2018 1:04:29 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4214, 630, 0) in Felucca: "static" "3807"
+8/6/2018 1:04:29 AM: 127.0.0.1: Serials: 0x4001AC80; 
+8/6/2018 1:04:29 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 3807'
+8/6/2018 1:04:30 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4216, 630, 0) in Felucca: "static" "3807"
+8/6/2018 1:04:30 AM: 127.0.0.1: Serials: 0x4001AC81; 
+8/6/2018 1:04:30 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 3807'
+8/6/2018 1:04:31 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4218, 630, 0) in Felucca: "static" "3807"
+8/6/2018 1:04:31 AM: 127.0.0.1: Serials: 0x4001AC82; 
+8/6/2018 1:04:33 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'set z 2'
+8/6/2018 1:04:33 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') set property 'z' of 0x4001A9C1 (Static) to '2'
+8/6/2018 1:04:34 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'set z 2'
+8/6/2018 1:04:35 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') set property 'z' of 0x4001AB31 (Static) to '2'
+8/6/2018 1:04:36 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'set z 2'
+8/6/2018 1:04:36 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') set property 'z' of 0x4001AB3A (Static) to '2'
+8/6/2018 1:04:37 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'set z 2'
+8/6/2018 1:04:37 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') set property 'z' of 0x4001AC1D (Static) to '2'
+8/6/2018 1:04:38 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'set z 2'
+8/6/2018 1:04:38 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') set property 'z' of 0x4001AC1B (Static) to '2'
+8/6/2018 1:04:39 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'set z 2'
+8/6/2018 1:04:39 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') set property 'z' of 0x4001AC13 (Static) to '2'
+8/6/2018 1:04:40 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'set z 2'
+8/6/2018 1:04:40 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') set property 'z' of 0x4001AC1E (Static) to '2'
+8/6/2018 1:04:40 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'set z 2'
+8/6/2018 1:04:41 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') set property 'z' of 0x4001AC1F (Static) to '2'
+8/6/2018 1:04:41 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'set z 2'
+8/6/2018 1:04:42 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') set property 'z' of 0x4001AC23 (Static) to '2'
+8/6/2018 1:05:02 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 3796'
+8/6/2018 1:05:02 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4212, 619, 0) in Felucca: "static" "3796"
+8/6/2018 1:05:02 AM: 127.0.0.1: Serials: 0x4001AC83; 
+8/6/2018 1:05:41 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'remove '
+8/6/2018 1:05:43 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') deleting 0x4001A9C0 (Static)
+8/6/2018 1:05:46 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'remove '
+8/6/2018 1:05:48 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') deleting 0x4001A9BF (Static)
+8/6/2018 1:05:49 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'move '
+8/6/2018 1:05:51 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') moving 0x4001AC83 (Static) to (4213, 620, 0)
+8/6/2018 1:06:25 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 4767'
+8/6/2018 1:06:25 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4218, 614, 0) in Felucca: "static" "4767"
+8/6/2018 1:06:25 AM: 127.0.0.1: Serials: 0x4001AC84; 
+8/6/2018 1:06:31 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 4768'
+8/6/2018 1:06:31 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4218, 613, 0) in Felucca: "static" "4768"
+8/6/2018 1:06:31 AM: 127.0.0.1: Serials: 0x4001AC85; 
+8/6/2018 1:06:35 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 4769'
+8/6/2018 1:06:35 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4217, 614, 0) in Felucca: "static" "4769"
+8/6/2018 1:06:35 AM: 127.0.0.1: Serials: 0x4001AC89; 
+8/6/2018 1:07:10 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 5396'
+8/6/2018 1:07:11 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4212, 620, 0) in Felucca: "static" "5396"
+8/6/2018 1:07:11 AM: 127.0.0.1: Serials: 0x4001AC8A; 
+8/6/2018 1:07:14 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'move '
+8/6/2018 1:07:16 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') moving 0x4001AC8A (Static) to (4212, 614, 0)
+8/6/2018 1:07:17 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'move '
+8/6/2018 1:07:18 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') moving 0x4001AC8A (Static) to (4212, 613, 0)
+8/6/2018 1:07:22 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'set z 5'
+8/6/2018 1:07:22 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') set property 'z' of 0x4001AC8A (Static) to '5'
+8/6/2018 1:07:25 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'set z 2'
+8/6/2018 1:07:26 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') set property 'z' of 0x4001AC8A (Static) to '2'
+8/6/2018 1:08:10 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 6570'
+8/6/2018 1:08:10 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4217, 618, 0) in Felucca: "static" "6570"
+8/6/2018 1:08:10 AM: 127.0.0.1: Serials: 0x4001AC8C; 
+8/6/2018 1:08:11 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 6570'
+8/6/2018 1:08:11 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4217, 615, 0) in Felucca: "static" "6570"
+8/6/2018 1:08:11 AM: 127.0.0.1: Serials: 0x4001AC98; 
+8/6/2018 1:08:25 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 6571'
+8/6/2018 1:08:26 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4217, 618, 17) in Felucca: "static" "6571"
+8/6/2018 1:08:26 AM: 127.0.0.1: Serials: 0x4001AC99; 
+8/6/2018 1:08:27 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 6571'
+8/6/2018 1:08:27 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4217, 615, 17) in Felucca: "static" "6571"
+8/6/2018 1:08:27 AM: 127.0.0.1: Serials: 0x4001AC9A; 
+8/6/2018 1:08:33 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'inc z'
+8/6/2018 1:08:35 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'inc z'
+8/6/2018 1:08:39 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'inc z 1'
+8/6/2018 1:08:40 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'inc z 1'
+8/6/2018 1:08:55 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'save '
+8/6/2018 1:09:17 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 6972'
+8/6/2018 1:09:17 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4212, 619, 0) in Felucca: "static" "6972"
+8/6/2018 1:09:17 AM: 127.0.0.1: Serials: 0x4001AC9B; 
+8/6/2018 1:09:24 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'remove '
+8/6/2018 1:10:01 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 7156'
+8/6/2018 1:10:01 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4215, 619, 0) in Felucca: "static" "7156"
+8/6/2018 1:10:01 AM: 127.0.0.1: Serials: 0x4001AC9C; 
+8/6/2018 1:10:07 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 7132'
+8/6/2018 1:10:08 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4214, 619, 0) in Felucca: "static" "7132"
+8/6/2018 1:10:08 AM: 127.0.0.1: Serials: 0x4001AC9D; 
+8/6/2018 1:10:19 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 7138'
+8/6/2018 1:10:20 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4216, 619, 0) in Felucca: "static" "7138"
+8/6/2018 1:10:20 AM: 127.0.0.1: Serials: 0x4001ACA3; 
+8/6/2018 1:10:22 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'move '
+8/6/2018 1:10:23 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') moving 0x4001AC9C (Static) to (4214, 620, 0)
+8/6/2018 1:10:24 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'move '
+8/6/2018 1:10:25 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') moving 0x4001AC9D (Static) to (4215, 619, 0)
+8/6/2018 1:10:25 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'move '
+8/6/2018 1:10:26 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') moving 0x4001AC9C (Static) to (4214, 619, 0)
+8/6/2018 1:10:31 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'move '
+8/6/2018 1:10:33 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') moving 0x4001AC9C (Static) to (4213, 619, 0)
+8/6/2018 1:10:33 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'move '
+8/6/2018 1:10:34 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') moving 0x4001AC9D (Static) to (4214, 619, 0)
+8/6/2018 1:10:42 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 7138'
+8/6/2018 1:10:42 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4215, 619, 0) in Felucca: "static" "7138"
+8/6/2018 1:10:42 AM: 127.0.0.1: Serials: 0x4001ACA5; 
+8/6/2018 1:10:48 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 7137'
+8/6/2018 1:10:48 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4217, 619, 0) in Felucca: "static" "7137"
+8/6/2018 1:10:48 AM: 127.0.0.1: Serials: 0x4001ACA6; 
+8/6/2018 1:10:55 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'inc z 1'
+8/6/2018 1:10:56 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'inc z 1'
+8/6/2018 1:10:57 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'inc z 1'
+8/6/2018 1:10:58 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'inc z 1'
+8/6/2018 1:10:59 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'inc z 1'
+8/6/2018 1:11:01 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'inc z 1'
+8/6/2018 1:12:28 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 7846'
+8/6/2018 1:12:28 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4212, 620, 0) in Felucca: "static" "7846"
+8/6/2018 1:12:28 AM: 127.0.0.1: Serials: 0x4001ACA7; 
+8/6/2018 1:12:31 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'move '
+8/6/2018 1:12:33 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') moving 0x4001ACA7 (Static) to (4212, 621, 0)
+8/6/2018 1:12:41 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'save '
+8/6/2018 1:12:56 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 7976'
+8/6/2018 1:12:56 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4212, 619, 0) in Felucca: "static" "7976"
+8/6/2018 1:12:56 AM: 127.0.0.1: Serials: 0x4001ACA8; 
+8/6/2018 1:12:59 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'move '
+8/6/2018 1:13:00 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') moving 0x4001ACA8 (Static) to (4212, 619, 0)
+8/6/2018 1:13:04 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'inc z 5'
+8/6/2018 1:13:06 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'inc z 5'
+8/6/2018 1:13:07 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'inc z 5'
+8/6/2018 1:13:11 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'move '
+8/6/2018 1:13:12 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') moving 0x4001ACA8 (Static) to (4212, 620, 0)
+8/6/2018 1:13:15 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'inc z 5'
+8/6/2018 1:13:16 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'inc z 5'
+8/6/2018 1:13:17 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'inc z 5'
+8/6/2018 1:13:18 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'inc z 5'
+8/6/2018 1:13:28 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'save '
+8/6/2018 1:15:29 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 9541'
+8/6/2018 1:15:31 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4223, 634, 0) in Felucca: "static" "9541"
+8/6/2018 1:15:31 AM: 127.0.0.1: Serials: 0x4001ACAF; 
+8/6/2018 1:15:32 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 9541'
+8/6/2018 1:15:32 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4222, 635, 0) in Felucca: "static" "9541"
+8/6/2018 1:15:32 AM: 127.0.0.1: Serials: 0x4001ACB0; 
+8/6/2018 1:15:33 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 9541'
+8/6/2018 1:15:33 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4224, 633, 0) in Felucca: "static" "9541"
+8/6/2018 1:15:33 AM: 127.0.0.1: Serials: 0x4001ACB1; 
+8/6/2018 1:15:34 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 9541'
+8/6/2018 1:15:34 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4221, 636, 0) in Felucca: "static" "9541"
+8/6/2018 1:15:34 AM: 127.0.0.1: Serials: 0x4001ACB2; 
+8/6/2018 1:15:42 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 9544'
+8/6/2018 1:15:42 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4220, 637, 0) in Felucca: "static" "9544"
+8/6/2018 1:15:42 AM: 127.0.0.1: Serials: 0x4001ACB3; 
+8/6/2018 1:15:59 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 9540'
+8/6/2018 1:15:59 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4219, 637, 0) in Felucca: "static" "9540"
+8/6/2018 1:15:59 AM: 127.0.0.1: Serials: 0x4001ACB4; 
+8/6/2018 1:16:01 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add static 9540'
+8/6/2018 1:16:01 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4218, 637, 0) in Felucca: "static" "9540"
+8/6/2018 1:16:01 AM: 127.0.0.1: Serials: 0x4001ACB5; 
+8/6/2018 1:16:02 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'move '
+8/6/2018 1:16:04 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') moving 0x4001ACB4 (Static) to (4219, 639, 0)
+8/6/2018 1:16:04 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'move '
+8/6/2018 1:16:05 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') moving 0x4001ACB4 (Static) to (4219, 637, 0)
+8/6/2018 1:16:07 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'remove '
+8/6/2018 1:16:08 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') deleting 0x4001ACB4 (Static)
+8/6/2018 1:16:08 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'remove '
+8/6/2018 1:16:08 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') deleting 0x4001ACB5 (Static)
+8/6/2018 1:16:33 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'wipe '
+8/6/2018 1:16:34 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') wiping from (4218, 634, 0) to (4227, 634, 0) in Felucca (Items, Mobiles)
+8/6/2018 1:16:35 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'wipe '
+8/6/2018 1:16:36 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') wiping from (4219, 632, 0) to (4225, 638, 0) in Felucca (Items, Mobiles)
+8/6/2018 1:17:09 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'save '
+8/6/2018 1:18:17 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add towncrie'
+8/6/2018 1:18:19 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4222, 615, 0) in Felucca: "TownCrierb"
+8/6/2018 1:18:19 AM: 127.0.0.1: Serials: 0xABB; 
+8/6/2018 1:18:24 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'set cantwalk true'
+8/6/2018 1:18:25 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') set property 'cantwalk' of 0xABB "Brandi" (no account) to 'True'
+8/6/2018 1:18:26 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4225, 617, 0) in Felucca: "TownCrierStone"
+8/6/2018 1:18:26 AM: 127.0.0.1: Serials: 0x4001ACBA; 
+8/6/2018 1:19:34 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add spawner greathart'
+8/6/2018 1:19:35 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4226, 625, 0) in Felucca: "spawner" "greathart"
+8/6/2018 1:19:35 AM: 127.0.0.1: Serials: 0x4001ACBB; 
+8/6/2018 1:19:44 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add spawner greathart'
+8/6/2018 1:19:45 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4240, 623, 0) in Felucca: "spawner" "greathart"
+8/6/2018 1:19:45 AM: 127.0.0.1: Serials: 0x4001ACBC; 
+8/6/2018 1:19:46 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add spawner greathart'
+8/6/2018 1:19:47 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4228, 636, 0) in Felucca: "spawner" "greathart"
+8/6/2018 1:19:47 AM: 127.0.0.1: Serials: 0x4001ACBD; 
+8/6/2018 1:19:56 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'remove '
+8/6/2018 1:19:57 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') deleting 0x4001ACBA (TownCrierStone)
+8/6/2018 1:26:01 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'add kind'
+8/6/2018 1:26:03 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building at (4220, 617, 0) in Felucca: "Kindling"
+8/6/2018 1:26:03 AM: 127.0.0.1: Serials: 0x4001ACE8; 
+8/6/2018 1:26:07 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'remove '
+8/6/2018 1:26:09 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') deleting 0x4001ACE8 (Kindling)
+8/6/2018 1:32:21 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'remove '
+8/6/2018 1:32:23 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') deleting 0x4001A988 (Static)

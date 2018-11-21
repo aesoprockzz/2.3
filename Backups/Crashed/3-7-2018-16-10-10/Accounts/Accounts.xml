@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<accounts count="4">
+	<account>
+		<username>bigcheez</username>
+		<newCryptPassword>04-45-40-29-82-FD-31-8B-B1-D2-92-43-06-A1-E0-A1-7B-FF-A3-A9</newCryptPassword>
+		<accessLevel>Owner</accessLevel>
+		<flags>2</flags>
+		<created>2018-06-21T02:20:50.3452611-07:00</created>
+		<lastLogin>2018-07-03T16:06:58.9478505-07:00</lastLogin>
+		<totalGameTime>P6DT14H39M30.5391491S</totalGameTime>
+		<chars>
+			<char index="0">2377</char>
+		</chars>
+		<addressList count="1">
+			<ip>127.0.0.1</ip>
+		</addressList>
+	</account>
+	<account>
+		<username>vilord</username>
+		<newCryptPassword>3F-5C-00-A3-D5-04-F9-8D-C4-15-0A-AB-0D-BF-FC-66-DF-FD-50-BB</newCryptPassword>
+		<created>2018-06-21T21:18:30.9540449-07:00</created>
+		<lastLogin>2018-06-24T07:44:36.8750988-07:00</lastLogin>
+		<totalGameTime>PT10M10.7559038S</totalGameTime>
+		<chars>
+			<char index="0">1</char>
+			<char index="1">2423</char>
+			<char index="2">2424</char>
+			<char index="3">2420</char>
+			<char index="4">2487</char>
+		</chars>
+		<addressList count="1">
+			<ip>127.0.0.1</ip>
+		</addressList>
+	</account>
+	<account>
+		<username>bigcheez2</username>
+		<newCryptPassword>5A-16-F8-FD-57-00-83-01-7A-AA-D1-2F-CE-77-95-FD-78-C9-FD-F0</newCryptPassword>
+		<created>2018-06-22T16:07:54.0698166-07:00</created>
+		<lastLogin>2018-07-03T15:08:58.9655013-07:00</lastLogin>
+		<totalGameTime>PT27M12.0326585S</totalGameTime>
+		<chars>
+			<char index="0">2421</char>
+			<char index="1">2422</char>
+			<char index="2">2425</char>
+			<char index="3">2456</char>
+			<char index="4">2461</char>
+		</chars>
+		<addressList count="1">
+			<ip>127.0.0.1</ip>
+		</addressList>
+	</account>
+	<account>
+		<username>bigcheez3</username>
+		<newCryptPassword>C3-29-0E-AD-B6-68-4C-53-88-85-13-73-BC-F0-61-8E-CA-AA-F3-22</newCryptPassword>
+		<created>2018-06-24T17:35:54.9874254-07:00</created>
+		<lastLogin>2018-06-24T17:36:07.7287386-07:00</lastLogin>
+		<totalGameTime>PT3M31.0491401S</totalGameTime>
+		<chars>
+			<char index="0">2490</char>
+		</chars>
+		<addressList count="1">
+			<ip>127.0.0.1</ip>
+		</addressList>
+	</account>
+</accounts>

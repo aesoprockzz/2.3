@@ -1,0 +1,69 @@
+##############################
+Log started on 6/30/2018 11:49:15 AM
+
+6/30/2018 11:49:21 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'tile ogre'
+6/30/2018 11:49:23 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building from (5230, 3093, 16) to (5231, 3094, 16) in Felucca: "ogre"
+6/30/2018 11:49:23 AM: 127.0.0.1: Serials: 0x164; 0x165; 0x166; 0x167; 
+6/30/2018 11:49:56 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'tile ogre'
+6/30/2018 11:49:57 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') building from (5231, 3084, -5) to (5234, 3085, -5) in Felucca: "ogre"
+6/30/2018 11:49:57 AM: 127.0.0.1: Serials: 0x1CA; 0x1CB; 0x1CC; 0x31D; 0x31E; 0x31F; 0x5A3; 0x5A4; 
+6/30/2018 11:50:15 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'wipe '
+6/30/2018 11:50:16 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') wiping from (5236, 3085, -5) to (5236, 3085, -5) in Felucca (Items, Mobiles)
+6/30/2018 11:50:17 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'wipe '
+6/30/2018 11:50:18 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') wiping from (5231, 3084, -5) to (5234, 3085, -5) in Felucca (Items, Mobiles)
+6/30/2018 11:54:40 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'res '
+6/30/2018 11:54:41 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') resurrecting 0x949 "iroxj00.com" ('bigcheez')
+6/30/2018 11:54:46 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'SET HITS 90'
+6/30/2018 11:54:47 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') set property 'HITS' of 0x949 "iroxj00.com" ('bigcheez') to '90'
+6/30/2018 11:54:59 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'remove '
+6/30/2018 11:55:00 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') deleting 0x4001B947 (Static)
+6/30/2018 11:55:03 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'SET HITS 90'
+6/30/2018 11:55:03 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') set property 'HITS' of 0x949 "iroxj00.com" ('bigcheez') to '90'
+6/30/2018 11:55:14 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'SET HITS 90'
+6/30/2018 11:55:15 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'remove '
+6/30/2018 11:55:16 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') deleting 0x4001BC82 (Teleporter)
+6/30/2018 11:55:17 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'remove '
+6/30/2018 11:55:17 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') deleting 0x40009C85 (PlateLegs)
+6/30/2018 11:55:22 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'remove '
+6/30/2018 11:55:23 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') deleting 0x4001BC84 (Teleporter)
+6/30/2018 11:55:25 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'remove '
+6/30/2018 11:55:26 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') deleting 0x40009C87 (PlateGloves)
+6/30/2018 11:55:26 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'remove '
+6/30/2018 11:55:27 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') deleting 0x40009C86 (PlateArms)
+6/30/2018 11:55:38 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'remove '
+6/30/2018 11:55:38 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') deleting 0x40009C84 (PlateChest)
+6/30/2018 11:55:39 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'remove '
+6/30/2018 11:55:39 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') deleting 0x40009C88 (PlateHelm)
+6/30/2018 11:55:41 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'remove '
+6/30/2018 11:55:42 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') deleting 0x40009C89 (PlateGorget)
+6/30/2018 11:56:44 AM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'save '
+6/30/2018 12:18:15 PM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'm tele'
+6/30/2018 1:52:21 PM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'dupe '
+6/30/2018 1:52:22 PM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') duping 0x4001A5B6 (Teleporter) (inBag=False; amount=1)
+6/30/2018 1:52:22 PM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') duped 0x4001A5B6 (Teleporter) creating 0x40004B83 (Teleporter)
+6/30/2018 1:52:23 PM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'move '
+6/30/2018 1:52:25 PM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') moving 0x40004B83 (Teleporter) to (5249, 3113, -4)
+6/30/2018 1:52:28 PM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'm tele'
+6/30/2018 1:52:53 PM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'tele '
+6/30/2018 4:24:06 PM: 127.0.0.1: Owner 0x949 "iroxj00.com" ('bigcheez') used command 'm tele'
+##############################
+Log started on 6/30/2018 6:06:37 PM
+
+##############################
+Log started on 6/30/2018 6:10:45 PM
+
+##############################
+Log started on 6/30/2018 7:13:28 PM
+
+##############################
+Log started on 6/30/2018 7:31:34 PM
+
+##############################
+Log started on 6/30/2018 8:58:33 PM
+
+##############################
+Log started on 6/30/2018 9:13:33 PM
+
+##############################
+Log started on 6/30/2018 9:15:53 PM
+
